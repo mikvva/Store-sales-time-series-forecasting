@@ -1,1 +1,1 @@
-"## Predicting store sales 
+Predicting store sales 
